@@ -1,4 +1,4 @@
 """print"""
 message = "Allahakabar ITF 2024"
 print(message)
-print("update ver1")
+print("update ver2")
